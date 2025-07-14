@@ -1,2 +1,0 @@
-# scss-var
-scss

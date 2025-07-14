@@ -57,9 +57,9 @@ $colors: () !default;
 $bg-color: () !default;
 $bg-color: map.merge(
   (
-    'page': #0a0a0a,
-    '': #141414,
-    'overlay': #1d1e1f,
+    'page': #131734,
+    '': #1b223e,
+    'overlay': #1b223e,
   ),
   $bg-color
 );
@@ -75,7 +75,7 @@ $bg-color: map.merge(
 }
 
 // border
-$border-color-base: #f5f8ff;
+$border-color-base: #fff;
 $border-color: () !default;
 $border-color: map.merge(
   (
